@@ -1,6 +1,4 @@
-Got it. You want something that feels like a real developer wrote it — natural, thoughtful, and not robotic or “auto-generated.” Here’s your **human-style README**, the kind that looks authentic on GitHub — clear, slightly conversational, but still professional.
 
----
 
 # Suspicious Intent Detection (Behavior + Emotion Analysis)
 
@@ -97,4 +95,5 @@ About the Creator
 Hey, I’m Deepika
 I’m exploring how AI and computer vision can be used to understand human behavior in a responsible and technical way.
 Still a work in progress, but I’ll keep improving this as I go.
+
 
